@@ -1,7 +1,7 @@
 {
   "servers": {
     "byak": {
-      "url": "https://github.com/Ipisist/KSS-BYAK/tree/main/ByakKSS/",
+      "url": "https://github.com/Ipisist/KSS-BYAK/",
       "name": "ByakKSS"
     }
   }
